@@ -47,6 +47,12 @@ data/
         |_2/
         |_3/
         |_4/
+    |_normalized_whole_images/
+        |_0/
+        |_1/
+        |_2/
+        |_3/
+        |_4/
     |_quadrants/
         |_quadrant_1/
             |_0/
